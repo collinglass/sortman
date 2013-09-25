@@ -4,7 +4,7 @@ A basic sorting library to visualize common sorting algorithms seen in Universit
 
 ### Documentation ###
 
-Algorithms take in an int array and return the array sorted.
+Algorithms take in an []int array and return the sorted array.
     bubbleSort(u)
     insertionSort(u)
     selectionSort(u)
